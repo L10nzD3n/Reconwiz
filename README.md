@@ -7,9 +7,13 @@ Reconwiz is a web reconnaissance tool that performs automated enumeration of htt
 
 # Featured tools
 o	nmap – Quick scan and Full scan (-A)
+
 o	nikto – used for web vulnerability scanning
+
 o	dirbuster – used for brute forcing web directories
+
 o	httprobe – used to check which web directory are alive
+
 o	gowitness – used to take an automated screenshot of the directories listed in the dirbuster scan.
 
 
