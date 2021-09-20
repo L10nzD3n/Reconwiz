@@ -5,6 +5,18 @@
 # Summary
 Reconwiz is a web reconnaissance tool that performs automated enumeration of http and https, respectively. It is intended as a time-saving tool that allows you to focus on the processes that require user input and aren't as tedious or repetitive. 
 
+# Installation script:
+    rm -rf pimpmykali/
+    git clone https://github.com/Dewalt-arch/pimpmykali
+    cd pimpmykali
+    sudo ./pimpmykali.sh
+    For a new kali vm, run menu option N
+    
+    go get -u github.com/tomnomnom/httprobe
+    
+    go get -u github.com/sensepost/gowitness
+
+
 # Featured tools
 o	nmap – Quick scan and Full scan (-A)
 
