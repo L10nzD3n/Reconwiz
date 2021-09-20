@@ -5,6 +5,10 @@
 # Summary
 Reconwiz is a web reconnaissance tool that performs automated enumeration of http and https, respectively. It is intended as a time-saving tool that allows you to focus on the processes that require user input and aren't as tedious or repetitive. 
 
+# Important
+    Please install go-lang at the following link prior to running the requirements script:
+    https://golang.org/doc/install#download
+
 # Installation script:
     o rm -rf pimpmykali/
     o git clone https://github.com/Dewalt-arch/pimpmykali
@@ -16,7 +20,7 @@ Reconwiz is a web reconnaissance tool that performs automated enumeration of htt
     o go get -u github.com/tomnomnom/httprobe
     o go get -u github.com/sensepost/gowitness
 
-
+    * Be sure to run these commands as root!!
 
 
 # Featured tools
